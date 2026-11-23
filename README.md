@@ -12,3 +12,7 @@
 - git commit -m "add README.md with my OSS contribution plan" 提交
 - git remote add origin https://github.com/z091888/Lab1-01.git 关联远程仓库
 - git push -u origin main 推送到远程仓库
+
+## 参考资料
+- lecture0-课程简介.pdf
+- lecture101-intro2OSS.pdf
